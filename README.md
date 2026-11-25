@@ -33,4 +33,4 @@ with Node.js and NestJS.
 
 ### 📫 Contact me
 
-[![Telegram](https://skillicons.dev/icons?i=telegram)](https://t.me/mzhurin)
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/mzhurin)
