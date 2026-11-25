@@ -1,30 +1,36 @@
-##  👋  Hi there!
 
-I am a frontend developer passionate about building modern web applications and keeping up with the latest technologies. 
+## 👋 Hi there!
 
-**Here's what I'm skilled in:**
+I'm a Frontend Developer with 5 years of commercial experience
+in building modern web applications.
 
- #### Languages 
-<div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="50" height="50"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="50" height="50"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="50" height="50"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title="TYPESCRIPT" alt="Typescript" width="50" height="50"/>&nbsp;
-</div>
+My main stack is Vue 3, Nuxt 3 and TypeScript.
+I'm also expanding my expertise in backend development
+with Node.js and NestJS.
 
-### Frameworks/Libraries: 
-<div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="50" height="50"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original-wordmark.svg" title="Nextjs" alt="NextJS" width="50" height="50"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original-wordmark.svg" title="Vue" alt="Vue" width="50" height="50"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/nuxtjs/nuxtjs-original.svg" title="Nuxtjs" alt="NuxtJS" width="50" height="50"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/svelte/svelte-original.svg" title="Svelte" alt="Svelte" width="50" height="50"/>&nbsp;
-</div>
+### 💻 Languages
 
-### Tools & Platforms: 
-<div>
- <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="50" height="50"/>&nbsp;
- <img src="https://github.com/devicons/devicon/blob/master/icons/npm/npm-original-wordmark.svg" title="npm" alt="npm" width="50" height="50"/>&nbsp;
- <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" title="GitHub" alt="GitHub" width="50" height="50"/>&nbsp;
- <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="VSCode" alt="VSCode" width="50" height="50"/>&nbsp;
-</div>
+![Languages](https://skillicons.dev/icons?i=html,css,js,ts,scss&theme=dark)
+
+### 🎨 Frontend
+
+![Frontend](https://skillicons.dev/icons?i=vue,nuxt,react,nextjs,pinia,redux,vite&theme=dark)
+
+### ⚙️ Backend & Databases
+
+![Backend](https://skillicons.dev/icons?i=nodejs,nestjs,postgres,prisma&theme=dark)
+
+### 🛠 Tools & Platforms
+
+![Tools](https://skillicons.dev/icons?i=git,github,gitlab,docker,npm,pnpm,vscode&theme=dark)
+
+### 🚀 Currently exploring
+
+- Backend development with NestJS
+- Real-time applications with WebSockets
+- Fullstack application architecture
+- Backend for Frontend (BFF)
+
+### 📫 Contact me
+
+[![Telegram](https://skillicons.dev/icons?i=telegram)](https://t.me/mzhurin)
